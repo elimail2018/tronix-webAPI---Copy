@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"UnitronicsContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Model","ProjectRootNamespace":"unitronicsWebApi","SelectedToBeGenerated":0,"Tables":[{"HasPrimaryKey":true,"Name":"dbo.Parking"}],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":true}
